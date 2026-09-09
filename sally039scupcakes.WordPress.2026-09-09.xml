@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-09 11:45" -->
+	<!-- generator="WordPress/7.1" created="2026-09-09 13:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Sally&#039;s Cupcakes</title>
-	<link>https://playground.wordpress.net/scope:playground-welcome-landing-page</link>
+	<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212</link>
 	<description></description>
-	<pubDate>Wed, 09 Sep 2026 11:45:41 +0000</pubDate>
+	<pubDate>Wed, 09 Sep 2026 13:27:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:playground-welcome-landing-page</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:playground-welcome-landing-page</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -62,7 +62,7 @@
 
 		<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/2026/08/19/hello-world/</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/2026/08/19/hello-world/</link>
 		<pubDate>Wed, 19 Aug 2026 20:32:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:38977/?p=1</guid>
@@ -105,7 +105,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 					</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/sample-page/</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/?page_id=2</link>
 		<pubDate>Wed, 19 Aug 2026 20:32:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:38977/?page_id=2</guid>
@@ -141,12 +141,12 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-19 20:32:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-19 20:32:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-19 20:32:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-19 20:32:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-09 13:16:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-09 13:16:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -156,10 +156,26 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1788959815]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/?page_id=3</link>
 		<pubDate>Wed, 19 Aug 2026 20:32:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:38977/?page_id=3</guid>
@@ -256,12 +272,16 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hello from WordPress Playground!]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/hello-from-playground/</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/?page_id=4</link>
 		<pubDate>Tue, 08 Sep 2026 16:32:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page/hello-from-playground/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/wordpress/blueprints/refs/heads/trunk/blueprints/welcome/assets/imgs/cover-image-playground.webp","id":77,"dimRatio":0,"isUserOverlayColor":true,"focalPoint":{"x":0.5,"y":0.3},"minHeight":850,"minHeightUnit":"px","isDark":false,"sizeSlug":"full","align":"full","layout":{"type":"constrained","contentSize":"1120px"}} -->
@@ -620,21 +640,33 @@ main.wp-block-group { margin-top: 0px !important; padding-top: 0px !important; }
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-08 16:32:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-08 16:32:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 16:32:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 16:32:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-09 13:16:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-09 13:16:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-from-playground]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[hello-from-playground__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1788959791]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-from-playground]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/2026/09/08/navigation/</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/2026/09/08/navigation/</link>
 		<pubDate>Tue, 08 Sep 2026 16:32:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page/2026/09/08/navigation/</guid>
@@ -658,7 +690,7 @@ main.wp-block-group { margin-top: 0px !important; padding-top: 0px !important; }
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/2026/09/08/wp-global-styles-twentytwentyfive/</link>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/2026/09/08/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Tue, 08 Sep 2026 16:32:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page/2026/09/08/wp-global-styles-twentytwentyfive/</guid>
@@ -682,8 +714,8 @@ main.wp-block-group { margin-top: 0px !important; padding-top: 0px !important; }
 										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
 						</item>
 					<item>
-		<title><![CDATA[About Sally's Cupcakes]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/about/</link>
+		<title><![CDATA[About]]></title>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/about/</link>
 		<pubDate>Tue, 08 Sep 2026 16:39:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page/?page_id=7</guid>
@@ -696,15 +728,15 @@ main.wp-block-group { margin-top: 0px !important; padding-top: 0px !important; }
 <p>Now Sally's cupcakes offers baked goods for all celebrations across the country. For a free sample or to find out more, get in touch.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":8,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://playground.wordpress.net/scope:playground-welcome-landing-page/wp-content/uploads/2026/09/sara-cervera-FAnSK-gVGZU-unsplash-681x1024.jpg" alt="" class="wp-image-8"/></figure>
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/sara-cervera-FAnSK-gVGZU-unsplash.jpg" alt=""/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-08 16:39:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-08 16:39:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 16:39:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 16:39:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-09 13:17:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-09 13:17:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -716,38 +748,137 @@ main.wp-block-group { margin-top: 0px !important; padding-top: 0px !important; }
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[sara-cervera-FAnSK-gVGZU-unsplash]]></title>
-		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page/about/sara-cervera-fansk-gvgzu-unsplash/</link>
-		<pubDate>Tue, 08 Sep 2026 16:37:14 +0000</pubDate>
+		<title><![CDATA[Cakes]]></title>
+		<link>https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/cakes/</link>
+		<pubDate>Wed, 09 Sep 2026 13:26:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page/wp-content/uploads/2026/09/sara-cervera-FAnSK-gVGZU-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:playground-welcome-landing-page-sep-9-140212/?page_id=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sally's Cupcakes offer cakes to suit every occasion:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":5,"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-5 is-cropped"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/alexandra-khudyntseva-hXqbSgOPjSI-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/allen-rad-JBIK4QZOFfc-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/american-heritage-chocolate-5K5Nc3AGF1w-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/american-heritage-chocolate-vdx5hPQhXFk-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/aneta-voborilova-1pJgja8u0S8-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/braggsdiner-F8RKds2YdqA-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/brooke-lark-V4MBq8kue3U-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/david-holifield-g5bgYkKa8y0-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/deva-williamson-S2jw81lfrG0-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/deva-williamson-ntfGWVbBiO0-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/deva-williamson-rHz-DkDgA1k-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/deva-williamson-tW0Ix_Ajg6Y-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/diliara-garifullina-gK297xpY6os-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/heather-barnes-_TN1m5R1pFI-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/jacob-thomas-6jHpcBPw7i8-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/jasmine-bartel-8LtrMQfeDkQ-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/kaouther-djouada-hcEDfkiVmMI-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/katie-rosario-QNyRp21hb5I-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/lauren-gray-Zqh5l1JWs5M-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/luisana-zerpa-MJPr6nOdppw-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/mike-meeks-zk-fclJdGas-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/natallia-nagorniak-tA3sJ4u09eU-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/sara-cervera-FAnSK-gVGZU-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/stories-ys8qztLjJyg-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/will-echols-P_l1bJQpQF0-unsplash.jpg" alt=""/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 16:37:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 16:37:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 16:37:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 16:37:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-09 13:26:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-09 13:26:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-09 13:26:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-09 13:26:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sara-cervera-fansk-gvgzu-unsplash]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>7</wp:post_parent>
+		<wp:post_name><![CDATA[cakes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://playground.wordpress.net/scope:playground-welcome-landing-page/wp-content/uploads/2026/09/sara-cervera-FAnSK-gVGZU-unsplash-scaled.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/sara-cervera-FAnSK-gVGZU-unsplash-scaled.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1702;s:6:"height";i:2560;s:4:"file";s:52:"2026/09/sara-cervera-FAnSK-gVGZU-unsplash-scaled.jpg";s:8:"filesize";i:357671;s:5:"sizes";a:6:{s:9:"thumbnail";a:5:{s:5:"width";i:150;s:6:"height";i:150;s:4:"file";s:45:"sara-cervera-FAnSK-gVGZU-unsplash-150x150.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7839;}s:6:"medium";a:5:{s:5:"width";i:199;s:6:"height";i:300;s:4:"file";s:45:"sara-cervera-FAnSK-gVGZU-unsplash-199x300.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11889;}s:12:"medium_large";a:5:{s:5:"width";i:768;s:6:"height";i:1155;s:4:"file";s:46:"sara-cervera-FAnSK-gVGZU-unsplash-768x1155.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78304;}s:5:"large";a:5:{s:5:"width";i:681;s:6:"height";i:1024;s:4:"file";s:46:"sara-cervera-FAnSK-gVGZU-unsplash-681x1024.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64735;}s:9:"1536x1536";a:5:{s:5:"width";i:1021;s:6:"height";i:1536;s:4:"file";s:47:"sara-cervera-FAnSK-gVGZU-unsplash-1021x1536.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127548;}s:9:"2048x2048";a:5:{s:5:"width";i:1362;s:6:"height";i:2048;s:4:"file";s:47:"sara-cervera-FAnSK-gVGZU-unsplash-1362x2048.jpg";s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:220637;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:37:"sara-cervera-FAnSK-gVGZU-unsplash.jpg";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 				</channel>
 </rss>
 	
