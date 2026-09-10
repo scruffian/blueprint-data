@@ -11,6 +11,16 @@
   "login": true,
   "steps": [
     {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "wordpress.org/themes",
+        "slug": "twentytwentyfour"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
       "step": "importWxr",
       "file": {
         "resource": "url",
