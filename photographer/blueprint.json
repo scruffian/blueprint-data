@@ -33,7 +33,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/photographer/elliotgrey.WordPress.2026-09-09.xml"
+        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/photographer/elliotgrey.WordPress.2026-09-10.xml"
       },
       "fetchAttachments": true
     }
