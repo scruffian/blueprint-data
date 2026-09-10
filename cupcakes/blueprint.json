@@ -11,10 +11,27 @@
   "login": true,
   "steps": [
     {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "wordpress.org/themes",
+        "slug": "twentytwentyfive"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Sally's cupcakes",
+        "blogdescription": ""
+      }
+    },
+    {
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/sally039scupcakes.xml"
+        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/sally039scupcakes.WordPress.2026-09-10.xml"
       },
       "fetchAttachments": true
     }
