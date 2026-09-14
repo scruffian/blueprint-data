@@ -31,7 +31,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/cupcakes/sally039scupcakes.WordPress.2026-09-10.xml"
+        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/dded2c85d5927a93cf8e2a94baea5b51336dc9b5/cupcakes/sally039scupcakes.WordPress.2026-09-10.xml"
       },
       "fetchAttachments": true
     },
