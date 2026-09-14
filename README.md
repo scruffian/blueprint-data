@@ -78,11 +78,3 @@ Second, enable the experiments in a `runPHP` step placed last, so nothing earlie
   "code": "<?php require '/wordpress/wp-load.php'; update_option( 'gutenberg-experiments', array( 'gutenberg-extensible-site-editor' => true, 'gutenberg-omnibar' => true ) );"
 }
 ```
-
-## Notes on Playground URL parameters
-
-Blueprints have no inheritance. There is no `extends` or `include` in either the v1 or v2 [schema](https://playground.wordpress.net/blueprint-schema.json), which is why the prototype variants are copies rather than wrappers.
-
-Only some query parameters merge into a blueprint loaded via `blueprint-url`. Those are `wp`, `php`, `networking`, `language`, `multisite`, `login`, `url`, `core-pr`, `gutenberg-pr` and `gutenberg-branch`. Notably `url` overrides `landingPage`, which is handy for pointing an existing blueprint at a different screen.
-
-`plugin`, `theme`, `import-wxr` and `import-site` are ignored when `blueprint-url` is present. They only apply to URLs that carry no blueprint at all.
