@@ -2,7 +2,7 @@
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "meta": {
     "title": "Sally's Cupcakes (Create not Learn)",
-    "description": "Cupcake shop for user testing. Create not Learn variant: enables the Gutenberg Extensible Site Editor and Omnibar experiments and lands on the v2 editor. Pair with &gutenberg-pr=79549.",
+    "description": "Cupcake shop for user testing. Create not Learn variant: enables the Gutenberg Extensible Site Editor and Omnibar experiments and lands on the v2 editor. Pair with &gutenberg-pr=79549. Pinned to WordPress 7.0 because the PR was last built in June 2026 and fatals on 7.1; remove the pin once the PR is rebased.",
     "author": "scruffian",
     "categories": [
       "meta"
@@ -41,7 +41,7 @@
     }
   ],
   "preferredVersions": {
-    "wp": "latest",
+    "wp": "7.0",
     "php": "8.3"
   },
   "features": {
