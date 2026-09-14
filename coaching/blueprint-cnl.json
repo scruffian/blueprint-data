@@ -1,0 +1,44 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "AB Career Coaching (Create not Learn)",
+    "description": "Career coaching for professionals. Create not Learn variant: enables the Gutenberg Extensible Site Editor and Omnibar experiments and lands on the v2 editor. Pair with &gutenberg-pr=79549.",
+    "author": "scruffian",
+    "categories": [
+      "meta"
+    ]
+  },
+  "login": true,
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "wordpress.org/themes",
+        "slug": "twentytwentyfour"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/scruffian/blueprint-data/refs/heads/trunk/coaching/abcareercoaching.WordPress.2026-09-10.xml"
+      },
+      "fetchAttachments": true
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php\nrequire '/wordpress/wp-load.php';\n// Create not Learn (Gutenberg PR #79549) lives behind two experiments.\n// Set last so nothing earlier in the blueprint can clobber the option.\nupdate_option( 'gutenberg-experiments', array(\n\t'gutenberg-extensible-site-editor' => true,\n\t'gutenberg-omnibar'                => true,\n) );\n"
+    }
+  ],
+  "preferredVersions": {
+    "wp": "latest",
+    "php": "8.3"
+  },
+  "features": {
+    "networking": true
+  },
+  "landingPage": "/wp-admin/admin.php?page=site-editor-v2"
+}
